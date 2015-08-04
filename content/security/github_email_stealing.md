@@ -13,3 +13,5 @@ In the above, a vulnerability in GitHub is demonstrated where a user is able to 
 Hopefully, GitHub will update with a fix soon.
 
 [Source](https://github.com/amoffat/masquerade/commit/9b0562595cc479ac8696110cb0a2d33f8f2b7d29)
+
+[Discussion on Hacker News](https://news.ycombinator.com/item?id=10005577)
