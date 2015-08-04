@@ -1,6 +1,5 @@
 +++
 date = "2015-08-04T16:48:43-04:00"
-draft = true
 title = "GitHub associates commits with email"
 
 +++
