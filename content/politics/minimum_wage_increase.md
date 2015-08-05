@@ -1,10 +1,11 @@
 +++
 date = "2015-08-05T08:28:11-04:00"
-title = "minimum_wage_increase"
+title = "Minimum Wage Increase"
 
 +++
 
 [Jens Rushing posted the following on Facebook recently](https://www.facebook.com/jens.rushing/posts/10153491564043784):
+
 > Fast food workers in NY just won a $15/hr wage.
 >
 > I'm a paramedic. My job requires a broad set of skills: interpersonal, medical, and technical skills, as well as the crucial skill of performing under pressure. I often make decisions on my own, in seconds, under chaotic circumstances, that impact people's health and lives. I make $15/hr.
