@@ -32,4 +32,4 @@ For the people that get this doubling of pay, I am hopeful that there is a not s
 
 The bigger picture, for me, is that this will significantly increase the buying power of the lower and middle classes. Even if we don't assume that everyone's wages will increase the same, we might assume that there will at least be enough of a shift for everyone else to offset the increase in cost of goods. With that assumption, now everyone has more money. More people with more money can do amazing things for the economy, in a much more sustainable way than a one time tax refund.
 
-I don't imagine that Basic Income will be a thing in my lifetime, but I do think that this will, at least in many states. In the long run, I think that we will all benefit from those wage increases. 
+I don't imagine that Basic Income will be a thing in my lifetime, but I do think that this will, at least in many states. In the long run, I think that we will all benefit from those wage increases.
