@@ -14,3 +14,6 @@ So, I decided to pick up a new one, with the 15 years' worth of improvements tha
 
 <img alt="freebord board" width="50%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/freebord_2.jpg" />
 
+Oh, and this is totally going to be me:
+
+<iframe src="//www.funnyordie.com/embed/9ec5b53c8f" width="640" height="400" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe><div style="text-align:left;font-size:x-small;margin-top:0;width:640px;"><a href="http://www.funnyordie.com/videos/9ec5b53c8f/skate-or-die-cool-guy" title="from Gabe Delahaye, Sean Dacanay">Skate Or Die Cool Guy</a> from <a href="http://www.funnyordie.com/funnyordie">Funny Or Die</a></div>
