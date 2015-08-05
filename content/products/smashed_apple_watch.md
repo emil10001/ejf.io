@@ -5,6 +5,7 @@ title = "Smashed Apple Watch"
 +++
 
 <img alt="smashed apple watch" width="80%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/smash_watch.jpg"/>
+
 > Image from [Weibo](http://www.weibo.com/1939120665/CeVkbyhYy?from=page_1005051939120665_profile&wvr=6&mod=weibotime&type=repost#_rnd1430101600529)
 
 [Some people have been reporting that their Apple Watch screens are breaking easily](http://mashable.com/2015/04/26/smashed-apple-watch-gallery).
