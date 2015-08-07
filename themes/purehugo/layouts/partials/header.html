@@ -1,3 +1,4 @@
+{{ $baseurl := .Site.BaseURL }}
 <!doctype html>
 <html lang="en">
 <head>
@@ -32,3 +33,9 @@
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}/index.xml" />
 </head>
 <body>
+  <div class="site-sections">
+    Categories: 
+    {{ range $index, $category := .Site.Sections }}
+      <a href="{{$baseurl}}/{{ $index }}/">{{ $index }}</a> |
+    {{ end }}
+  </div>
