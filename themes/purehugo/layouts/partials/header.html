@@ -34,7 +34,7 @@
 </head>
 <body>
   <div class="site-sections">
-    Categories: 
+    <a href="{{ $baseurl }}">top</a>  
     {{ range $index, $category := .Site.Sections }}
       <a href="{{$baseurl}}/{{ $index }}/">{{ $index }}</a> |
     {{ end }}
