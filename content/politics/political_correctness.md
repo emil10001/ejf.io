@@ -41,3 +41,7 @@ I totally agree that the PC concerns need to be tempered, when they go too far, 
 As far as Twitter goes, I think that there are some parallels with Reddit. The similarity between them is anonymity, as opposed to a character limit. Giving people a mouthpiece and a mask can have both positive and negative results.
 
 Oh, and I'm not opposed to a lot of conservative ideas. I love to get into discussions where people have a good head on their shoulders, and can actually discuss issues without getting into the weeds. It saddens me that we don't have more of these sorts of discussions as a society.
+
+## Update
+
+[Link to Chrome Extension for PC to Treat with Respect](https://chrome.google.com/webstore/detail/pc2respect/mgkjmkalaomdhdldmfbgpjdpmpdnhiio)
