@@ -17,7 +17,8 @@ Here's the one that should work:
 1. Install the Android version of the [Evernote](https://chrome.google.com/webstore/detail/evernote/dhfolfjkgpeaojbiicgheljefkfbbfkc?hl=en-US) app in Chrome
 1. Install [twerk](https://chrome.google.com/webstore/detail/twerk/jhdnjmjhmfihbfjdgmnappnoaehnhiaf) (Android APK packager for Chrome OS)
 1. Run twerk from Chrome App Launcher
-1. Then drag a debug apk of Talkray into Twerk
+1. Download Talkray apk from somewhere.
+1. Then drag an apk of Talkray into Twerk
 1. Set the package name to com.talkray.client, and then set it to be tablet and landscape
 1. Save it, and load the output into Chrome as an unpacked extension
 1. You may be able to manually edit the generated output to add a different icon
@@ -28,7 +29,8 @@ Here's what I actually did:
 1. Unzip it, load it into Chrome from chrome://extensions as an unpacked extension
 1. Install [twerk](https://chrome.google.com/webstore/detail/twerk/jhdnjmjhmfihbfjdgmnappnoaehnhiaf) (Android APK packager for Chrome OS)
 1. Run twerk from Chrome App Launcher
-1. Then drag a debug apk of Talkray into Twerk
+1. Download Talkray apk from somewhere.
+1. Then drag an apk of Talkray into Twerk
 1. Set the package name to com.talkray.client, and then set it to be tablet and landscape
 1. Save it, and load the output into Chrome as an unpacked extension
 1. You may be able to manually edit the generated output to add a different icon
