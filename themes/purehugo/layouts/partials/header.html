@@ -31,11 +31,29 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}/index.xml" />
+
 </head>
 <body>
   <div class="site-sections">
-    <a href="{{ $baseurl }}">top</a>  
+    <a href="{{ $baseurl }}">top</a>
     {{ range $index, $category := .Site.Sections }}
       <a href="{{$baseurl}}/{{ $index }}/">{{ $index }}</a> |
     {{ end }}
   </div>
+
+  <!-- Google AdSense -->
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <style type="text/css">
+    .adslot_1 { display:inline-block; width: 320px; height: 50px; }
+    @media (max-width: 48em) { .adslot_1 { display: none;height:0px;width:0px; } }
+    @media (min-width:48em ) { .adslot_1 { margin-left:25%; width: 728px; height: 90px; } }
+  </style>
+  <!-- ejf.io -->
+  <ins class="adsbygoogle adslot_1"
+       style="display:block"
+       data-ad-client="ca-pub-4405049540661808"
+       data-ad-slot="6954114772"
+       data-ad-format="auto"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
