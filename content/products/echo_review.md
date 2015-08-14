@@ -59,3 +59,10 @@ The ecosystem is very limited and tightly controlled right now. I think that the
 ## Final Thoughts
 
 While I do have some gripes, overall, I am very happy with the Echo. It's a great showcase for how to do voice interaction really well, and I have found it quite useful. I expect that most of my issues will be resolved as the user base for this product grows, and the team has resources to put some effort into polishing up the experience. They've been steadily improving things thus far, IFTTT and Audible support are two important examples of major improvements that have come recently.
+
+## Update
+
+As an experiment, I'm going to add an Amazon affiliate link here, if you're interested in checking out the product (since I conveniently forgot to include a link before).
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=ejfio-20&marketplace=amazon&region=US&placement=B00X4WHP5E&asins=B00X4WHP5E&linkId=4KTCYRFBCFZJYYR6&show_border=true&link_opens_in_new_window=true">
+</iframe>
