@@ -4,7 +4,7 @@ title = "Capellini with Meat Sauce"
 
 +++
 
-<img alt="capellini with meat sauce" widt="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/pasta.jpg">
+<img alt="capellini with meat sauce" width="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/pasta.jpg">
 
 Tonight, I decided to go with a fairly simple pasta. The noodles are capellini, the cheese is pecorino romano, and it's topped with a home made red sauce.
 
