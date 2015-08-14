@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ejohnfeig
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ejf.io
+  * I am ejohnfeig (https://keybase.io/ejohnfeig) on keybase.
+  * I have a public key with fingerprint 27C2 8242 6742 D10F 5981  FDB4 4875 DE78 4E0A 48A4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "27c282426742d10f5981fdb44875de784e0a48a4",
+            "host": "keybase.io",
+            "key_id": "4875de784e0a48a4",
+            "kid": "01013baee732cf3987d2b7812dbe3a717096d2e4880bdccbe94df32146942b8c8dbd0a",
+            "uid": "b53c47e9c5c699405a659512bf278900",
+            "username": "ejohnfeig"
+        },
+        "service": {
+            "hostname": "ejf.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1439577318,
+    "expire_in": 157680000,
+    "prev": "4d07a15de47b04b16f2f488e23215500574f911d003f219804bfa6ab21c385c3",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.41
+Comment: https://keybase.io/crypto
+
+yMIYAnicbVJrSBVBGL2WFd00JBF6P5YsAq2Z2dmd2WtBXEMigzDoQWq2szt73R67
+t71Xy8zK/tiNHlAgWCRoZdGDLDIobviglxmZKBEFRfT8Uf2poHfN2uNX82eYM+ec
+mXP4rqUPDQRT3rXXfh7a0piR0tM5ryKw7C5+WS0x16ySQtXSOj64WbYT4V7Us524
+FJIQMRBFGKkEIxMCS9EotEyGMSWKyQnFHOiY6ljKkcrdmK8QNkyP8dm2KzBxKLNN
+gf6Hv27wAkAAZaZzTmRkWLJGiYkYoRCZjMs6gQRoqok4phQw0zAY17BpyQhiVcOI
+UYOazAS6sKsYtGOKbGDCNUMxVE3DQNFVRVMgYhYiVAPAJ8a45+gbuGDztW65Y3E7
+ItXkSAKutA3ud+BH+UexfkeJem7cNdz1AiuPx6OxkK+JV0V90ibOyv7Iy5jtmKJC
+oajkXsx2HSkEBdOI274fxLKmECJDmiPxzVHb42W2z1CISoFY/ju80i/MBESHojNM
+GMAMqhayRAkcieyKAoBCsKVBaAIgWwhqVHAsXdUZgoZMFUOW/EAbHVd4y+KfekR4
+xuyIo8crPC7VdHWUpAZSgoHhw4b4UxAIjsz4Oxtrekd8S5t57NL8RJsDUI70aOLB
+vL7XeZ25jclXTaOnX60ZHzxw4s3S7Mimw9t3Whf1D+deLCy0glOf6fLzLfvXJ8eG
+Z8g3Zy3AW3syw56dn3YW8PriAV5Y//52XXxa150Vocx916NTJ03+UjzuS+33KU9+
+Zu14eON4opT+fBrpSutdOSl3AjlS0FZCb+1raPt6OpY7quBM+6lDJ/duvToye8m7
+F6eaG7ovD7Q8TnzoS204/62gZPWYPbs76hO7SlLvLVq8fKBJuZJ+IdBdfL+8aGGy
+sHnH6AcbnRvPS81w9ZnWulILfe4j6pOqyfkfH2fNjW7/lF2U9/boj21zMlaFk/3X
+eEo/T7b+AsNJJc8=
+=JDYa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ejohnfeig
+
+==================================================================
+
