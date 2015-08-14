@@ -58,3 +58,7 @@ I don't like committing the `./public` directory to git, so I added the followin
 This way, on your production server, you can pull changes from the source, and run the hugo command to generate the new public content.
 
 From there, you can play with trying out different themes, and once you pick a theme, hacking on the HTML/CSS in the theme to customize it to exactly what you want.
+
+# Update
+
+[Here's a link to the source for this particular site.](https://github.com/emil10001/ejf.io)
