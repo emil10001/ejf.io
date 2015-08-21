@@ -10,12 +10,6 @@ Earlier this week, I headed to SFVR #10. I had attended their previous event, th
 
 One especially interesting project was a very simple looking demo that showed how a smartphone (or a smartwatch) could be used for very accurate 2d input, using nothing but sound. They use inaudible frequencies, and determine position using the Doppler effect
 
-<video width="640" height="480" controls>
-  <source src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/demoDraft3.avi" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-> [Source](https://onedrive.live.com/redir?resid=B920DAD54AF17F49!26449&authkey=!AKSZDN2K9hsSSYk&ithint=video%2cavi) (rehosted in case it gets pulled)
-
+Here is [a video demo](https://onedrive.live.com/redir?resid=B920DAD54AF17F49!26449&authkey=!AKSZDN2K9hsSSYk&ithint=video%2cavi) of the technology. ([Rehosted in case it gets pulled](https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/demoDraft3.avi).)
 
 It’s academic research at the moment, being lead by [Lili Qiu](http://www.cs.utexas.edu/~lili/). They recently received a grant from the NSF to try to find commercial applications. The project is called "Champion Air Tracker” or CAT, since they intend to eat the mouse.
