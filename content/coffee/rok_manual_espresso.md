@@ -3,6 +3,7 @@ date = "2015-08-26T07:40:03-07:00"
 title = "ROK Manual Espresso"
 
 +++
+<meta property="og:type" content="article" /> <meta property="og:title" content="ROK Manual Espresso &#xb7; E John Feig" /> <meta property="og:description" content="Back in January, I had been without an espresso machine for nearly a year. My previous espresso machine, a FrancisFrancis! X5, had failed the previous year..." /> <meta property="og:url" content="http://ejf.io/coffee/rok_manual_espresso/" /> <meta property="og:image" content="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/rok_1.jpg" />
 
 <img alt="ROK setup" width="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/rok_1.jpg">
 
