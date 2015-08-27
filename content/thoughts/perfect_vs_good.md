@@ -1,7 +1,7 @@
 +++
 date = "2015-08-27T07:40:17-07:00"
 title = "Perfect is the Enemy of Good"
-
+images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/lake_sunset.jpg"]
 +++
 
 Perfectionism can hurt your ability to accomplish your goals. It's pretty simple, but the idea is that if you are a perfectionist, and you hold yourself to such a high standard that any sort of failure is unbearable then it will be very difficult to get things done, and you'll likely be miserable.

@@ -1,7 +1,7 @@
 +++
 date = "2015-08-21T06:57:24-07:00"
 title = "Ramen at Home"
-
+images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/ramen_1.jpg"]
 +++
 
 <img alt="ramen" width="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/ramen_1.jpg">

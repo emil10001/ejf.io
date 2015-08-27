@@ -1,7 +1,8 @@
 +++
 date = "2015-08-26T07:40:03-07:00"
 title = "ROK Manual Espresso"
-
+images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/rok_1.jpg"]
+description = "Thoughts on the ROK Manual Espresso machine, a completely manual way to pull decent shots of espresso."
 +++
 
 <img alt="ROK setup" width="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/rok_1.jpg">
