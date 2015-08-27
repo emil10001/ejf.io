@@ -10,7 +10,7 @@ Back in January, I had been without an espresso machine for nearly a year. My pr
 
 I had been getting by with pour-over, but was getting a bit anxious to be able to pull real espresso at home again. I had seen the ROK machine around the internet before and thought that it was a pretty interesting machine. It is completely manual, meaning that you heat the water separately, and you supply the pressure to push the water through with the levers. I've had an interest in more manual espresso extraction, where I would be able to have lots of latitude to dial things in, and get the perfect shots, just the way that I wanted them. Since the ROK was not terribly expensive, I decided to give it a try, with the understanding that it was basically a stand-in for a real machine, that I would be buying down the road.
 
-Here's a video showing about the best extraction that you can hope for on this machine.
+Here's a video showing about the best extraction that you can hope for on this machine. (Note, the video is not mine.)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uh_FwCbwjdI" frameborder="0" allowfullscreen></iframe>
 
