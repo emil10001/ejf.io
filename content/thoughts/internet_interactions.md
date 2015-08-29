@@ -1,7 +1,7 @@
 +++
 date = "2015-08-29T14:17:53-07:00"
 title = "Internet Interactions and a Disclaimer"
-
+images = ["http://imgs.xkcd.com/comics/duty_calls.png"]
 +++
 
 A friend recently posted about being continually frustrated with seeing offensive posts on Facebook. It seems that she tended to interact with those sorts of posts, Facebook had learned that fact, and showed her more of what she interacted with. My initial advice was to lean on the 'hide' and 'unfollow' functions that Facebook offers. Then I started thinking a little more about my own behavior.
