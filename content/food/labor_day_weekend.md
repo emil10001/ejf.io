@@ -1,7 +1,7 @@
 +++
 date = "2015-09-08T10:14:26-07:00"
 title = "Eating Labor Day Weekend"
-
+images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/20150907_weekend_of_food/beet_risotto.jpg"]
 +++
 
 This weekend was an amazing weekend for food at home. I didn't grill at all, but we ate well. I'll share a couple of the meals that I made, one from Friday night, and the other from Monday's dinner. I did make pancakes somewhere in there, but forgot about grabbing a photo.
