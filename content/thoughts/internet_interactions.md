@@ -6,7 +6,7 @@ images = ["http://imgs.xkcd.com/comics/duty_calls.png"]
 
 A friend recently posted about being continually frustrated with seeing offensive posts on Facebook. It seems that she tended to interact with those sorts of posts, Facebook had learned that fact, and showed her more of what she interacted with. My initial advice was to lean on the 'hide' and 'unfollow' functions that Facebook offers. Then I started thinking a little more about my own behavior.
 
-<img alt="xkcd Duty Calls" width="50%" title="What do you want me to do?  LEAVE?  Then they'll keep being wrong!" src="http://imgs.xkcd.com/comics/duty_calls.png">
+<img alt="xkcd Duty Calls" title="What do you want me to do?  LEAVE?  Then they'll keep being wrong!" src="http://imgs.xkcd.com/comics/duty_calls.png">
 
 > [Source XKCD](https://xkcd.com/386/)
 
