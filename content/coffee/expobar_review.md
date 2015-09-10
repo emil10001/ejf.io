@@ -1,7 +1,7 @@
 +++
 date = "2015-09-10T08:33:45-07:00"
 title = "Review of the Expobar Office Lever Plus"
-
+images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/espresso_machine/e61_2.jpg"]
 +++
 
 I recently took the plunge on a new espresso machine. I had written a [review of my previous machine](http://ejf.io/coffee/rok_manual_espresso/), and how I had been frustrated and disappointed with it. After going without a real espresso machine for nearly two years, I thought that it was finally time to get back into it.
