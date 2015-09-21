@@ -6,7 +6,7 @@ title = "Weekend of Food - 2"
 
 This past weekend was another good weekend for food. While I didn't go all out like I did Labor Day weekend, I still managed a few nice things.
 
-We had brunch, which was eggs Benedict with hollandaise sauce, hash browns, and a home made buttermilk biscuit. I used the immersion cooker for the eggs. I made the hollandaise the hard way, with a whisk, and it came out really pretty good. I was happy that my efforts were rewarded.
+We had brunch, which was eggs Benedict with hollandaise sauce, hash browns, and a home made buttermilk biscuit. I used the immersion cooker for the eggs. I made the [hollandaise the hard way, with a whisk](http://www.seriouseats.com/2010/06/how-to-make-hollandaise-sauce-recipe-slideshow.html), and it came out really pretty good. I was happy that my efforts were rewarded.
 
 <img alt="" width="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/20150920_wof2/brunch_eggs_benedict.jpg">
 
