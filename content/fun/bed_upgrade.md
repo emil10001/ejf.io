@@ -13,3 +13,7 @@ The only problem is that with the extra space, I've been sleeping in an extra ho
 <img alt="mattress on the bed" width="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/bed_2_mattress.jpg">
 
 <img alt="finished bed" width="75%" src="https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/bed_3_finished.jpg">
+
+### Update
+
+I probably should mention a couple of things. First, I bought the 2x4s at Home Depot, and had them all cut to length (76"). I was originally going to use 13 2x4s and plywood on top to create a flat surface for the memory foam mattress, but the saw for plywood was broken at Home Depot. Instead, I went with 20 2x4s, with about 1/2"-3/4" spacing in between. This ended up being less effort overall on my part.
