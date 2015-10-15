@@ -48,3 +48,7 @@ As the election cycles approaches, I will probably read books by the candidates,
 This isn't something that I'm excited to give up, and I probably won't ditch it completely. I wrote most of this last night, and this morning, I had the urge to pull up the *Times* app on my phone in bed, and then listen to NPR when I got into the kitchen. I liked having the news as part of my routine, but I think that it's a worthwhile experiment to try to look for alternatives.
 
 I will report back with an update at some point, and discuss how it's going.
+
+## Update
+
+I'm ditching this experiment, it turns out, [I like the news]('/experiments/i_like_the_news').
