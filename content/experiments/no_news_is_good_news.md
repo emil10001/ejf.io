@@ -51,4 +51,4 @@ I will report back with an update at some point, and discuss how it's going.
 
 ## Update
 
-I'm ditching this experiment, it turns out, [I like the news]('/experiments/i_like_the_news').
+I'm ditching this experiment, it turns out, [I like the news](/experiments/i_like_the_news).

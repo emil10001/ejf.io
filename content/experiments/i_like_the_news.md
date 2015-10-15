@@ -4,7 +4,7 @@ title = "I like the news"
 
 +++
 
-It turns out that I like the news. I'm ditching [my 'no news' experiment]('/experiments/no_news_is_good_news'), and re-subscribing to the New York Times.
+It turns out that I like the news. I'm ditching [my 'no news' experiment](/experiments/no_news_is_good_news), and re-subscribing to the New York Times.
 
 My central complaint from before, about how the news media influences us, and may lead to us believing things that aren't true. Thinking about this more, while there may be some truth to this, I think that cutting out the daily news may be a case of 'perfect is the enemy of good'. Trying to get to some state of perfect information is probably not possible, and trying to get there may actually make me less informed in the process.
 
