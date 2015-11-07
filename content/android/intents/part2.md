@@ -1,7 +1,7 @@
 +++
-date = "2015-11-03T21:19:41-08:00"
+date = "2015-11-08T21:19:41-08:00"
 draft = true
-title = "How to send a Broadcast (Android Intents Part 2)"
+title = "Public APIs on the phone in Android (Android Intents Part 2)"
 
 +++
 
@@ -9,4 +9,6 @@ This is the second post in a series about sharing information between apps. ([Pa
 
 <youtube video here>
 
-## Conclusion
+## Text to Speech Example
+
+http://developer.android.com/reference/android/speech/tts/TextToSpeech.html

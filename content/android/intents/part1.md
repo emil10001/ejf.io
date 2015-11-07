@@ -1,21 +1,24 @@
 +++
-date = "2015-11-03T08:49:49-08:00"
-draft = true
+date = "2015-11-07T09:37:49-08:00"
 title = "How to launch an Activity (Android Intents Part 1)"
 
 +++
 
 This is the first post in a series about sharing information between apps. It will start with the basics, and move on to discuss how we might leverage this to do some interesting things. Additionally, I'll be providing videos that cover the text contents of these posts (plus insightful things), so if you want to watch instead of read, check out the video below:
 
-<youtube video here>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQ_uy071q_U" frameborder="0" allowfullscreen></iframe>
+
+> Apologies for the quality of the video. I'm just starting out, and hoping that I'll be able to get better at this. However, I don't want to let my [lack of skill and inexperience prevent me from moving forward](/thoughts/perfect_vs_good/).
 
 ## Series Table of Contents
 
-* Post 1 - The basics
+* Part 1 - The basics
 ** Launch Activity (w/Extras)
 ** Launch Service
 ** Send Broadcast
-* More coming soon
+* Part 2 - Say something (coming soon)
+** Text-to-speech demo
+** Demonstrate public API working with two apps
 
 [Follow this series of posts here](/android/intents/).
 
