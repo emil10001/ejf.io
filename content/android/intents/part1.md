@@ -8,7 +8,7 @@ This is the first post in a series about sharing information between apps. It wi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZQ_uy071q_U" frameborder="0" allowfullscreen></iframe>
 
-> Apologies for the quality of the video. I'm just starting out, and hoping that I'll be able to get better at this. However, I don't want to let my [lack of skill and inexperience prevent me from moving forward](/thoughts/perfect_vs_good/).
+> *Apologies for the quality of the video. I'm just starting out, and hoping that I'll be able to get better at this. However, I don't want to let my [lack of skill and inexperience prevent me from moving forward](/thoughts/perfect_vs_good/).*
 
 ## Series Table of Contents
 
