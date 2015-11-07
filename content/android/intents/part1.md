@@ -13,14 +13,12 @@ This is the first post in a series about sharing information between apps. It wi
 ## Series Table of Contents
 
 * Part 1 - The basics
-** Launch Activity (w/Extras)
-** Launch Service
-** Send Broadcast
+  * Launch Activity (w/Extras)
+  * Launch Service
+  * Send Broadcast
 * Part 2 - Say something (coming soon)
-** Text-to-speech demo
-** Demonstrate public API working with two apps
-
-[Follow this series of posts here](/android/intents/).
+  * Text-to-speech demo
+  * Demonstrate public API working with two apps
 
 ## Sharing in Android
 
