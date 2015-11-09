@@ -16,9 +16,13 @@ This is the first post in a series about sharing information between apps. It wi
   * Launch Activity (w/Extras)
   * Launch Service
   * Send Broadcast
-* Part 2 - Say something (coming soon)
+* [Part 2 - Why?](/android/intents/part2)
+  * Why do we want public APIs?
+* [Part 3 - Make your phone talk](/android/intents/part3)
   * Text-to-speech demo
   * Demonstrate public API working with two apps
+  * Support generic text share
+* Part 4 - coming soon
 
 ## Sharing in Android
 
@@ -102,7 +106,7 @@ If you run that, you'll see the service getting started then stopped. I added lo
     11-04 07:58:23.257 27985-27985/io.ejf.intentexamples I/MainService: starting service
     11-04 07:58:23.266 27985-27985/io.ejf.intentexamples I/MainService: stopping service
 
-[Check out the code at this point.](https://github.com/emil10001/AndroidIntentExamples/tree/step3) (Quick side-note here, if you want to check out the repository at this step, first check out the repo, then run the following command: `git checkout -b step3 step3`. That will get you a branch at the step1 tag.)
+[Check out the code at this point.](https://github.com/emil10001/AndroidIntentExamples/tree/step3) (`git checkout -b step3 step3`)
 
 ## Send a Broadcast
 
