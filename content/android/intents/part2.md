@@ -5,7 +5,7 @@ images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/intents/fitn
 
 +++
 
-This is the second post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1).) In this post, we're going to create a public API that allows other apps to use our app to speak something out loud. I'll be providing videos that cover the text contents of these posts (plus insightful things), so if you want to watch instead of read, check out the video below:
+This is the second post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1).) In this post, we're going to discuss why it might be nice to have a public API exposed from a third party app. I'll be providing videos that cover the text contents of these posts (plus insightful things), so if you want to watch instead of read, check out the video below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65Xq7ftu5yA" frameborder="0" allowfullscreen></iframe>
 

@@ -5,7 +5,7 @@ images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/intents/shar
 
 +++
 
-This is the third post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1), and [part 2 is here](/android/intents/part2).)
+This is the third post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1), and [part 2 is here](/android/intents/part2).) In this post, we're going to create a public API that allows other apps to use our app to speak something out loud. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cVWf16KurH4" frameborder="0" allowfullscreen></iframe>
 
