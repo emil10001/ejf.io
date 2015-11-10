@@ -1,6 +1,7 @@
 +++
 date = "2015-11-09T22:59:41-08:00"
 title = "Why do we want public APIs? (Android Intents Part 2)"
+images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/intents/fitness_integration.png"]
 
 +++
 

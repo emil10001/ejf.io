@@ -1,6 +1,7 @@
 +++
 date = "2015-11-09T23:05:05-08:00"
 title = "Make your phone talk (Android Intents Part 3)"
+images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/intents/share_via.png"]
 
 +++
 
