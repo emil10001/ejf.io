@@ -1,13 +1,12 @@
 +++
-date = "2015-11-08T16:05:05-08:00"
-draft = true
+date = "2015-11-09T23:05:05-08:00"
 title = "Make your phone talk (Android Intents Part 3)"
 
 +++
 
 This is the third post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1), and [part 2 is here](/android/intents/part2).)
 
-<youtube video here>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cVWf16KurH4" frameborder="0" allowfullscreen></iframe>
 
 ## Series Table of Contents
 

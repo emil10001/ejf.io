@@ -1,13 +1,12 @@
 +++
-date = "2015-11-08T16:01:41-08:00"
-draft = true
+date = "2015-11-09T22:59:41-08:00"
 title = "Why do we want public APIs? (Android Intents Part 2)"
 
 +++
 
 This is the second post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1).) In this post, we're going to create a public API that allows other apps to use our app to speak something out loud. I'll be providing videos that cover the text contents of these posts (plus insightful things), so if you want to watch instead of read, check out the video below:
 
-<youtube video here>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65Xq7ftu5yA" frameborder="0" allowfullscreen></iframe>
 
 *If you watched the video, feel free to skip to [Part 3](/android/intents/part3/), where we'll look at some code. This post is simply a text version of the video.*
 
