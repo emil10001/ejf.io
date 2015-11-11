@@ -4,7 +4,7 @@ title = "Android Intents Series Table of Contents"
 
 +++
 
-This is the code for a series of blog posts and videos about sharing information between apps. It will start with the basics, and move on to discuss how we might leverage this to do some interesting things.
+This is the Table of Contents for a series of blog posts and videos about sharing information between apps. It will start with the basics, and move on to discuss how we might leverage this to do some interesting things.
 
 The following is the table of contents for the series:
 
@@ -19,6 +19,8 @@ The following is the table of contents for the series:
   * Demonstrate public API working with two apps
   * Support generic text share
 * Part 4 - coming soon
+
+[The code for the series is here](https://github.com/emil10001/AndroidIntentExamples).
 
 Here's the YouTube playlist for the videos in the series:
 
