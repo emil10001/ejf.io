@@ -12,17 +12,7 @@ This is the first post in a series about sharing information between apps. It wi
 
 ## Series Table of Contents
 
-* Part 1 - The basics
-  * Launch Activity (w/Extras)
-  * Launch Service
-  * Send Broadcast
-* [Part 2 - Why?](/android/intents/part2)
-  * Why do we want public APIs?
-* [Part 3 - Make your phone talk](/android/intents/part3)
-  * Text-to-speech demo
-  * Demonstrate public API working with two apps
-  * Support generic text share
-* Part 4 - coming soon
+[Follow the series on the Table of Contents page](/android/intents/toc).
 
 ## Sharing in Android
 

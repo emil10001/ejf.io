@@ -5,23 +5,13 @@ images = ["https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/intents/shar
 
 +++
 
-This is the third post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1), and [part 2 is here](/android/intents/part2).) In this post, we're going to create a public API that allows other apps to use our app to speak something out loud. 
+This is the third post in a series about sharing information between apps. ([Part 1 is here](/android/intents/part1), and [part 2 is here](/android/intents/part2).) In this post, we're going to create a public API that allows other apps to use our app to speak something out loud.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cVWf16KurH4" frameborder="0" allowfullscreen></iframe>
 
 ## Series Table of Contents
 
-* [Part 1 - The basics](/android/intents/part1)
-  * Launch Activity (w/Extras)
-  * Launch Service
-  * Send Broadcast
-* [Part 2 - Why?](/android/intents/part2)
-  * Why do we want public APIs?
-* Part 3 - Make your phone talk
-  * Text-to-speech demo
-  * Demonstrate public API working with two apps
-  * Support generic text share
-* Part 4 - coming soon
+[Follow the series on the Table of Contents page](/android/intents/toc).
 
 ## Text to Speech Example
 

@@ -18,7 +18,11 @@ The following is the table of contents for the series:
   * Text-to-speech demo
   * Demonstrate public API working with two apps
   * Support generic text share
-* Part 4 - coming soon
+* [Part 4 - Editing Images](/android/intents/part4)
+  * Aviary example
+* [Part 5 - Managing Finances](/android/intents/part5)
+  * Finance and Stocks example
+* Part 6 - coming soon
 
 [The code for the series is here](https://github.com/emil10001/AndroidIntentExamples).
 
