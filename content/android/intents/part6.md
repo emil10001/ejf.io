@@ -22,4 +22,8 @@ There were a number of great questions that I didn't have great answers for. I t
 
 There were a few Android GDEs in the room that chimed in and helped answer some of these questions. They pointed out, for example that on rooted phones, you really have no expectation of security. Ryan Harter also mentioned that you can lock down intent filters using signature checking, so that only apps signed with your signature are allowed to send and consume them. However, for that case, it's not really a public API.
 
-The other security question, however, around other apps intercepting sensitive data, I do think deserves a better explanation. I had had security and doing a deep dive on Intents on my roadmap for this series. So, my current answer is that I'll try to cover it in a future post.
+The other security question, however, around other apps intercepting sensitive data, I do think deserves a better explanation. I had had security and doing a deep dive on Intents on my roadmap for this series. So, my current answer is that I'll try to cover those issues in a future post.
+
+As far as the scalability question goes, my immediate answer was that the authentication may be able to be done locally. I'm pretty sure that there are accounts APIs for this, and it may be necessary to open an additional in-app API for getting full auth details for the backend web requests. The point is that on-device public APIs may not be the answer to all inter-app communications issues, but they should at least be part of the conversation.
+
+The questions around service discovery and consistent behavior may be able to be addressed by some sort of central repository of APIs. Such a repository may contain highly structured data around how to make requests to any given API, which apps provide such functionality. It should also provide some sort of automated testing to attempt to validate that the functionality works consistently between apps claiming to provide similar features.

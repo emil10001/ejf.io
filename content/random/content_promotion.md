@@ -1,51 +1,22 @@
 +++
 date = "2015-11-20T09:11:11-08:00"
-draft = true
 title = "Content promotion on social media"
 
 +++
 
-How Google Developer Relations does social media.
+I didn't come up with the ideas here, these are my notes from a talk on lessons learned in how to do social media by Google's social media team.
 
-Session covers:
+Social media is a way for you to deliver your content to your audience. It's a way for you to find your audience and for your audience to find you. It allows you to have a conversation with your audience. It allows you to learn about what your audience likes, and what they want more of. This can help you to produce better content that they will like more. It's also a way to build a community with your audience around your content, and shared interests.
 
-1. Google Dev social principles
-1. things we learned along the way
-1. tracking and measuring
-1. activity
+## General lessons
 
-Google Dev Social principles
-
-Social media is about reaching people with a message that they want to engage with and **inspiring them to take action**.
-
-* Building awareness about a new product or feature
-* Broad inspiration
-* Training
-
-It's about being in conversation with your audience in a way that's meaningful to them by **both talking and listening**.
-
-Respond to comments.
-
-And, it's about **creating community** for your audience, connecting them through common interests.
-
-Questions to ask:
+Questions to ask for each post:
 
 * Is this engaging?
 * Is there a call to action?
 * Will this foster and facilitate conversations?
 
-Things learned along the way
-
-* Move fast
-* Fail
-* Iterate
-
-Channel specific learnings
-
-* G+
-* Twitter
-* Facebook
-* Blogs
+Just like everywhere else, it's a good idea to try out different things to see what works and what doesn't, and iterate on the stuff that does work.
 
 Other general learnings
 
@@ -53,11 +24,11 @@ Other general learnings
 * Comment/reply management
 * Re-sharing/influencer engagement
 
-Think about the split between native on the platform and off behind a link. Images and videos may work much better natively.
+Think about the split between native on the platform and off behind a link. Images, GIFs, and videos may work much better natively.
 
 ## G+
 
-**Targeted & Technical**
+Targeted & Technical
 
 * Long-form content including small code snippets
 * Video embed
@@ -71,7 +42,7 @@ Think about how your links will populate on G+.
 
 ## Twitter
 
-**Quick & engaging**
+Quick & engaging
 
 * GIFs to drive brand awareness or accompanied by a link to more Content
 * Photos or memes
@@ -80,33 +51,28 @@ Think about how your links will populate on G+.
 * Use a GIF of the video
 * Make sure to have room in the tweet for an image and link
 
-## Pulling Twitter and G+ together
-
-Using Twitter to promote long-form content in G+ is a great way to engage people on both platforms.
+Using Twitter to promote long-form content elsewhere is a great way to engage people on both platforms.
 
 ## Facebook
 
-**Potential growth... with investment**
+Potential growth... with investment
 
 * Native video upload
 * Incremental reach
 
 Pay-to-play, need to spend money to get views. Native uploads are more engaging on Facebook.
 
-**Organic growth on Facebook**
+Organic growth on Facebook
 
 Video & call to action (ask to like the page) will help to grow organically.
 
 ## Blogs
 
-* Primary outlet for program/product announcements
-* Corporate voice, as opposed to an individual opinion forum
-
-Good for in-depth content, maybe less personal, whereas the social platforms may be better for a more personal, conversational.
+Good for in-depth content, maybe less personal, whereas the social platforms may be better for a more personal, conversational. Depending on what you are doing. If this is a personal blog, then it should be personal. If it is a corporate blog, then maybe it's more of the official corporate channel, and the voice should be more of a corporate voice.
 
 ## Medium
 
-* Forum for a more opinionated, personalized voice: ability to pull in DA's Content
+* Forum for a more opinionated, personalized voice
 * Emerging space for written long-form content
 
 More personal, and conversational, while still allowing for long-form in-depth content.
@@ -115,26 +81,21 @@ More personal, and conversational, while still allowing for long-form in-depth c
 
 ## Engagement
 
-Comments are great... except when they're not.
+It is worth engaging with your audience as much as possible in the comments. Obviously, ignore the trolls, and the comments that don't add value. If you can't say anything that would add value to the current conversation, then don't, leave it there. Engage with the comments that provide good feedback, positive or negative, and contribute to the conversation.
 
-**Do** engage with feedback, positive and negative, to encourage conversation.
-**Don't** engage with comments where you can't add value.
-
-We're all in this together. **Reshare other people's content**, but do it in moderation.
+It's also worth re-sharing other people's content that you think is good. Just don't go overboard with the re-shares.
 
 ## Tracking and measuring
 
-Tracking and measuring on social is throwing spaghetti at the wall.
+Doing social media is throwing spaghetti at the wall. Tracking and measuring is the only way that you know when something's working, especially when you're trying a bunch of random things.
 
 * Outline objectives up front
 * Identify potential data points to prove impact
-* Think of ways to make the data meaningful (Q/Q growth)
+* Think of ways to make the data meaningful (e.g. Q/Q growth)
 
-Know your audience. Pay attention to what they're engaging with and do more of it. If you're really unsure, ask. This is where tracking can come in handy to help growth.
+Know your audience. Pay attention to what they're engaging with and do more of it. If you're really unsure, ask. This is where tracking can come in handy to help growth. Social media is not just about reach. It's about thoughtfully engaging.
 
-Social media is not just about reach. It's about thoughtfully engaging.
-
-Funnel:
+### Funnel
 
 * **Reach** - how many people saw our content?
   * followers
@@ -150,18 +111,3 @@ Funnel:
   * neutral
 * **Conversions** - SDK downloads docs visits
   * GA - referrers
-
-## Conclusion
-
-Twitter and G+, using both Google Devs vs Polymer channels
-
-* Up front planning
-  * allowed for more flexibility
-* Mixed media content works
-  * Video, photos, GIFs
-  * Humanity
-* Balance importance of reach and engagement
-  * Google Devs vs Polymer channels
-* Maximize each channel's strength
-  * Live blogging on Twitter
-  * Better video user experience & community on G+
