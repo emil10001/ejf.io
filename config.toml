@@ -1,4 +1,4 @@
-baseurl = "http://ejf.io"
+baseurl = "https://ejf.io"
 languageCode = "en-us"
 title = "E John Feig"
 paginate = 10
