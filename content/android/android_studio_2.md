@@ -172,6 +172,10 @@ Limitations
 
 ## Instant Run and Build
 
+<video width="1280" height="720" controls>
+  <source src="https://storage.googleapis.com/ejf-io/android_dev_summit/instant_run_2.mp4" type="video/mp4">
+</video>
+
 Simple UI
 
 * Run

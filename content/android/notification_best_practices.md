@@ -33,6 +33,8 @@ Discussed in this post will be the following:
 
 You probably don't want your app to get banned by the user. The system won't tell you that you've been banned. The user can also uninstall you. Don't push the user to this point.
 
+<img alt="bad notifications" width="50%" src="https://storage.googleapis.com/ejf-io/android_dev_summit/garbage_notifications.gif">
+
 ### *Do Not Disturb Mode*
 
 [I personally have this on all the time.](/products/notifications/)
