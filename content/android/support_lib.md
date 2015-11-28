@@ -1,11 +1,15 @@
 +++
-date = "2015-11-23T14:17:11-08:00"
+date = "2015-12-01T07:17:11-08:00"
 draft = true
-title = "support_lib"
+title = "Support Library"
 
 +++
 
+*On November 23 & 24, I attended the first ever [Android Dev Summit](https://androiddevsummit.withgoogle.com/). The following are notes that I took during talks. I have included the video of the talk as well. Again, these are my notes from the talk, not my original content.*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihQ16K8gSuQ" frameborder="0" allowfullscreen></iframe>
+
+Chiu-Ki Chan (Android GDE) took really great notes during the session as well, here's what she had:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Support library by <a href="https://twitter.com/chrisbanes">@chrisbanes</a> and <a href="https://twitter.com/adamwp">@adamwp</a> <a href="https://twitter.com/hashtag/AndroidDevSummit?src=hash">#AndroidDevSummit</a> <a href="https://twitter.com/hashtag/Sketchnotes?src=hash">#Sketchnotes</a> <a href="https://t.co/l3LurcYMeA">pic.twitter.com/l3LurcYMeA</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/668926497890045952">November 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -122,4 +126,4 @@ Using a variable can help to keep all the support dependencies at the same, corr
 
 ## Bugs
 
-http://b.android.com
+[http://b.android.com](http://b.android.com)
