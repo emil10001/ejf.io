@@ -1,5 +1,6 @@
 +++
 date = "2015-12-01T06:25:30-08:00"
+draft = true
 title = "Feedback Q&A (Android Intents Part 6)"
 
 +++
