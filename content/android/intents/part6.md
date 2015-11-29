@@ -1,13 +1,12 @@
 +++
-date = "2015-12-01T07:25:30-08:00"
-draft = true
-title = "Comments, Criticisms, and Thoughts (Android Intents Part 6)"
+date = "2015-12-01T06:25:30-08:00"
+title = "Feedback Q&A (Android Intents Part 6)"
 
 +++
 
 This is the sixth post in a series about sharing information between apps. ([Series Table of Contents](/android/intents/toc).) In this post, I'm going to discuss some of the feedback that I've received so far on this topic. No code this time, but it's an important part of the discussion, and is going to set the stage for the next few installments.
 
-<youtube>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zEHB4KhhEY" frameborder="0" allowfullscreen></iframe>
 
 ## Series Table of Contents
 
