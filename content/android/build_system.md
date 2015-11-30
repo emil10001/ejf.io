@@ -27,7 +27,7 @@ Try:
 
     android {
         dexOptions {
-            dexInProgress = true
+            dexInProcess = true
         }
     }
 
