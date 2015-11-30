@@ -179,7 +179,7 @@ Old way:
 
 Here's what the flow looks like if you want to write Gradle Android plugins:
 
-<img alt="gradle extension flow" widt="75%" src="https://storage.googleapis.com/ejf-io/android_dev_summit/gradle_extension_flow.png">
+<img alt="gradle extension flow" width="75%" src="https://storage.googleapis.com/ejf-io/android_dev_summit/gradle_extension_flow.png">
 
 * If you want to work with tasks, you have to use `afterEvaluate`
 * If you want to work with build types/flavors, etc., you can't use `afterEvaluate`
