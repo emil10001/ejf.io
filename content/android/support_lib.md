@@ -1,7 +1,6 @@
 +++
-date = "2015-12-02T13:17:11-08:00"
-draft = true
-title = "Support Library"
+date = "2015-12-02T39:17:11-08:00"
+title = "Notes on the Android Support Library"
 
 +++
 
