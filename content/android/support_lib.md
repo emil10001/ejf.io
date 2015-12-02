@@ -1,5 +1,5 @@
 +++
-date = "2015-12-02T39:17:11-08:00"
+date = "2015-12-02T13:40:11-08:00"
 title = "Notes on the Android Support Library"
 
 +++
