@@ -1,9 +1,10 @@
 +++
 date = "2015-12-03T10:00:03-05:00"
-draft = true
 title = "What is App Indexing?"
-
+images = ["https://storage.googleapis.com/ejf-io/auto-complete.png"]
 +++
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kM1ZwBK2fUA" frameborder="0" allowfullscreen></iframe>
 
 ### And, what's the difference between App Indexing and Deep Linking?
 
@@ -12,6 +13,8 @@ title = "What is App Indexing?"
 **App Indexing** - New-ish. Reporting back to Google what content and web addresses are being opened by users in your app. Allows for auto-complete of searches with app and previously visited content.
 
 Using both together allows Google to put a button on search results that allows users to install and open pages with your app using deep linking.
+
+<img alt="auto complete search" width="50%" src="https://storage.googleapis.com/ejf-io/auto-complete.png">
 
 ## How do I enable App Indexing for my app?
 
