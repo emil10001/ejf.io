@@ -1,13 +1,17 @@
 +++
-date = "2015-11-23T11:42:50-08:00"
-draft = true
+date = "2015-12-04T10:00:50-08:00"
 title = "Keep it Secret, Keep it Safe"
+images = ["https://storage.googleapis.com/ejf-io/keep_it_secret.png"]
 
 +++
 
+<img alt="cover slide" width="75%" src="https://storage.googleapis.com/ejf-io/keep_it_secret.png">
+
+*On November 23 & 24, I attended the first ever [Android Dev Summit](https://androiddevsummit.withgoogle.com/). The following are notes that I took during talks. I have included the video of the talk as well. Again, these are my notes from the talk, not my original content.*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fcWVV0Hafuk" frameborder="0" allowfullscreen></iframe>
 
-http://developer.android.com/training/articles/security-ssl.html
+**[Android SSL Training Docs](http://developer.android.com/training/articles/security-ssl.html).**
 
 *Protecting the network traffic in your app.*
 
@@ -52,7 +56,8 @@ On the server-side, you should secure your traffic. All traffic must be protecte
   * Integrety
   * Confidentiality
   * Hard part - knowing you're talking to the right peer
-* ...?
+* Safe by default
+  * Modern platforms have safe defaults and it is just as simple as using TLS.
 
 ## Using TLS
 
