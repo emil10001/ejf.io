@@ -121,4 +121,4 @@ Your app can use its own CA, which may make sense for various applications. Howe
 
 Google is going to be scanning the Play Store, running static analysis on apps, looking for vulnerabilities. They will alert developers, and remove apps that have not been fixed. Here's the slide that discusses that:
 
-<img alt="vulnerable apps" widt="75%" src="https://storage.googleapis.com/ejf-io/android_dev_summit/security_vulnerability_reports.jpg">
+<img alt="vulnerable apps" width="75%" src="https://storage.googleapis.com/ejf-io/android_dev_summit/security_vulnerability_reports.jpg">
