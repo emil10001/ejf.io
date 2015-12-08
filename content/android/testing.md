@@ -1,11 +1,14 @@
 +++
-date = "2015-11-24T11:41:57-08:00"
-draft = true
+date = "2015-12-08T09:11:57-08:00"
 title = "Testing in Android"
 
 +++
 
+*On November 23 & 24, I attended the first ever [Android Dev Summit](https://androiddevsummit.withgoogle.com/). The following are notes that I took during talks. I have included the video of the talk as well. Again, these are my notes from the talk, not my original content.*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdasFFfXKOY" frameborder="0" allowfullscreen></iframe>
+
+Chiu-Ki Chan (Android GDE) took really great notes during the session as well, here's what she had:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Android Testing with <a href="https://twitter.com/onlythoughtwork">@onlythoughtwork</a> <a href="https://twitter.com/ppvi">@ppvi</a> <a href="https://twitter.com/jfschmakeit">@jfschmakeit</a> <a href="https://twitter.com/hashtag/AndroidDevSummit?src=hash">#AndroidDevSummit</a> <a href="https://twitter.com/hashtag/Sketchnotes?src=hash">#Sketchnotes</a> <a href="https://t.co/w30eLkXZvm">pic.twitter.com/w30eLkXZvm</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/669265757457354752">November 24, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -52,7 +55,7 @@ Don't put everything into Activities, it makes it really hard to test. Move busi
 
 Mockable Android Jar.
 
-Android Studio helps with Test-Driven-Development. If everything is set up correctly, AS can even help with new features, if tests are defined first. (double-check this?)
+Android Studio helps with Test-Driven-Development. If everything is set up correctly, AS can even help with new features, if tests are defined first.
 
 ## UI Testing with Espresso
 
@@ -69,7 +72,3 @@ Tried to ask: What would a user do?
     onView(ViewMatcher)
         .perform(ViewAction)
         .check(ViewAssertion);
-
-## Performance testing
-
-Look into this
