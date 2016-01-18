@@ -1,5 +1,5 @@
 +++
-date = "2016-01-18T09:56:38-0800"
+date = "2016-01-18T09:56:38-08:00"
 title = "Blogging tools - creating Hugo blog posts from Android"
 images = ["https://storage.googleapis.com/ejf-io/writing_tools.png"]
 description = "I wrote an Android app to create the header data for new blog posts, and other workflow improvements"
