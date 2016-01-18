@@ -11,7 +11,7 @@ I am starting this post on my phone. I realized that one of the roadblocks that 
 
 Here's what I did:
 
-1. Built an Android app to generate the header, and add it to my clipboard.
+1. Built an Android app to generate the header, and add it to my clipboard. [Source](https://github.com/emil10001/HugoNew_Android)
 1. Add a script to my server for easy publishing.
 1. Set up JuiceSSH, so that I can log into my server from my phone.
 
@@ -31,4 +31,4 @@ With those couple things, I can now do the end-to-end process of creating and pu
 
 It still needs work (no image support yet), since it is a lot of steps, but it is a start.
 
-*Note - I added the images from my laptop.*
+*Note - I added the images from my laptop. [Here's the source code for my Android app](https://github.com/emil10001/HugoNew_Android).*
