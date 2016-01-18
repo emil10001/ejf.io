@@ -30,3 +30,5 @@ With those couple things, I can now do the end-to-end process of creating and pu
 1. Log into my server and run publish script
 
 It still needs work (no image support yet), since it is a lot of steps, but it is a start.
+
+*Note - I added the images from my laptop.*
