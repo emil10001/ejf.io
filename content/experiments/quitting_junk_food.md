@@ -1,4 +1,8 @@
++++
+date = "2016-01-26T11:42:53-08:00"
+title = "Quitting Junk Food"
 
++++
 
 <img alt="doughnuts" width="75%" src="https://storage.googleapis.com/ejf-io/doughnuts.jpg">
 
