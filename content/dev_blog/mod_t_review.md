@@ -1,6 +1,5 @@
 +++
 date = "2016-03-01T08:30:49-08:00"
-draft = true
 title = "New Matter MOD-t Review - a 3D printer"
 images = ["https://storage.googleapis.com/ejf-io/3d_printer_collage.jpg"]
 +++
