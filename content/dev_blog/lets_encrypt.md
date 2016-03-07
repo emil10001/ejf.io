@@ -1,6 +1,6 @@
 +++
 date = "2016-03-07T08:37:43-08:00"
-title = "Let's Encrypt Tips"
+title = "Let's Encrypt - setting up automated certificate renewals"
 
 +++
 
