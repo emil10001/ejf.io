@@ -1,6 +1,5 @@
 +++
-date = "2016-03-05T10:37:43-08:00"
-draft = true
+date = "2016-03-07T08:37:43-08:00"
 title = "Let's Encrypt Tips"
 
 +++
