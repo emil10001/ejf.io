@@ -1,8 +1,13 @@
 +++
 date = "2016-05-08T07:36:08-07:00"
 title = "Doing My Best"
+images = ["https://storage.googleapis.com/ejf-io/depression_unsplash.jpeg"]
 
 +++
+
+<img alt="depression" width="75%" src="https://storage.googleapis.com/ejf-io/depression_unsplash.jpeg">
+
+> Photo by Ashley St. John
 
 Sixteen months ago, my daughter was born. After a difficult first week, the first month was great, challenging, but overall things were really good. Then the depression crept back in.
 
@@ -12,7 +17,7 @@ I was generally happy when I would get home from work, but I'd spend the days be
 
 After Lydia was born, I decided that being depressed was a real hinderance to my ability to be the sort of father that I wanted to be. I wanted to be able to set a good example, and not act irrationally or impulsively because I couldn't think of an alternative. I wanted to be able to pass on some tools for dealing with life better. So, after years of dealing with this, I made an appointment with a therapist.
 
-I ended up only going to two sessions, because that's all that I felt like I needed. Those two sessions were so useful, and illuminating, that it has taken me a little over a year to get to a point where I might need to go back for a refresher. The therapist that I met with introduced me to a version of therapy called Cognitive Behavioral Therapy (or CBT). CBT's model is that our thoughts are what cause our feelings, and if we change the way that we think about things, then we can change the way that we feel. It can be broken down into a few parts: cognitions, goals, and behaviors.
+I ended up only going to two sessions, because that's all that I felt like I needed. Those two sessions were so useful, and illuminating, that it has taken me a little over a year to get to a point where I might need to go back for a refresher. The therapist that I met with introduced me to a version of therapy called Cognitive Behavioral Therapy (or CBT). CBT's model is that our thoughts are what cause our feelings, and if we change the way that we think about things, then we can change the way that we feel. It can be broken down into a few parts: cognitions, goals, and behaviors. (As a note, there's a great book called ["Feeling Good"](http://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380810336) that goes through all the basics of CBT.)
 
 One of the really basic CBT tools is a chart that helps you to identify specifically the thoughts that are triggering your negative emotions, and then asks you to come up with alternate ways to think about the triggering event or that idea that might be more balanced. This requires paying close attention to how you're feeling, and working backwards from there, which is tricky initially, but you get the hang of it.
 
