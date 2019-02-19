@@ -1,6 +1,6 @@
 +++
-title: "Assembling a watch from parts"
-date: 2019-02-18T20:50:25-08:00
+title = "Assembling a watch from parts"
+date = 2019-02-18T20:50:25-08:00
 images = ["https://storage.googleapis.com/ejf-io/watch/watch_2.jpg"]
 
 +++
