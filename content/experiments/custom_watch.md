@@ -10,6 +10,7 @@ I recently started getting into watches. I guess that I've been interested in th
 A couple months ago, I looked around at watch parts, and really had no idea what I was looking at and gave up quickly. Mainly, I didn't really understand how to find a movement, and then match a dial, case, and hands to it. Then, I saw a [post on Massdrop](https://www.massdrop.com/talk/9333/automatic-chronograph-project-watch) that had a couple shops to go to for parts, as well as a chronograph movement (Valjoux ETA 7750). I checked out Ofrei, and they had everything that I would need with a base Valjoux 7750 movement. 
 
 I built a list of parts:
+
 * [Valjoux ETA 7750 $450](http://www.ofrei.com/page240.html) 
 * [Dial Blue with Silver Markers $15 30.5mm](http://www.ofrei.com/page1250.html)  
 * [Hands Swiss White Newlite Luminous Silver 120/200 HAN-7145 $8](http://www.ofrei.com/Hands-to-fit-valjoux-7750.html)
