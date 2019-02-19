@@ -1,9 +1,9 @@
----
++++
 title: "Assembling a watch from parts"
 date: 2019-02-18T20:50:25-08:00
 images = ["https://storage.googleapis.com/ejf-io/watch/watch_2.jpg"]
 
----
++++
 
 I recently started getting into watches. I guess that I've been interested in them for a long time, but the difference I guess is that I've started focusing on mechanical watches. Something that wormed its way into my brain was the thought of buying a bunch of parts and assembling a watch from scratch. 
 
