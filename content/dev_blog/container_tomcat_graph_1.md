@@ -1,13 +1,20 @@
 +++
 date = "2016-03-06T10:30:04-08:00"
-draft = true
-title = "container_tomcat_graph"
+title = "Container Tomcat Graph - part 1"
 
 +++
 
+_Note: I wrote this post 3 years ago, and somehow forgot to publish it. It may contain incomplete sentences, and may be complete nonsense, I am not going to re-read it. Proceed at your own risk._
+
 For years, I've had this problem around cooking at home, which is sort of two-fold. First, I really don't like finding recipes and coming up with meals to cook. It's time-consuming, and when I'm digging through recipes, I get indecisive and overwhelmed with the number of choices, wasting hours a week. The other problem I have is that there are meals that I cook that call for me to buy some ingredient that the meal itself doesn't completely use and that I probably won't use again.
 
-I decided to build a tool to help me solve these problems. The tool will allow me to enter in recipes, it will store them in a graph database, and then it will traverse the graph to build a menu for the week for me. If there are recipes that call for uncommon ingredients that are somewhat expensive that won't be fully used, it should try to find other recipes that also use that ingredient, and prioritize surfacing those recipes. Here are the technologies that I'm going to use to build this app:
+I decided to build a tool to help me solve these problems. The tool will allow me to enter in recipes, it will store them in a graph database, and then it will traverse the graph to build a menu for the week for me. If there are recipes that call for uncommon ingredients that are somewhat expensive that won't be fully used, it should try to find other recipes that also use that ingredient, and prioritize surfacing those recipes.
+
+I wanted to write up my process, as I have had a lot of difficulty, just getting the basics off the ground. Especially with how many moving parts there are in this. Hopefully, if I decide to build another app with a similar stack, it'll be a little quicker with this guide.
+
+This blog post is going to take us through the very basics of building a Docker image that runs Tomcat. The next post will cover getting that image up to the cloud. From there, future posts will cover using AngularJS as a frontend, and adding in the Titan graph.
+
+Here are the technologies that I'm going to use to build this app:
 
 * [Google Container Engine](https://cloud.google.com/container-engine/)
 * [Gradle](http://gradle.org/)
@@ -16,8 +23,6 @@ I decided to build a tool to help me solve these problems. The tool will allow m
 * [Tomcat](http://tomcat.apache.org/)
 * [Titan DB (graph database)](http://thinkaurelius.github.io/titan/)
 * [AngularJS 1.x (frontend)](https://angularjs.org/)
-
-This blog post is going to take us through the very basics of building a Docker image that runs Tomcat, and deploying it to Google Cloud's Container Engine. In future posts, I'll cover using AngularJS as a frontend, and adding in the Titan graph.
 
 As a prerequisite, to this, you'll need to have Docker set up locally. I haven't written a thing on this, so you're on your own here. It's not that hard, the installer does most of the work for you. You'll also need to have the Google Cloud tools set up.
 
@@ -57,7 +62,7 @@ You'll note that if you try to build now, it's going to fail, that's because you
 
 <script src="https://gist.github.com/emil10001/f243b4c8efdfd5ad8841.js?file=tomcat-users.xml"></script>
 
-### Running
+### Running Locally
 
 Now that you've got that done, I like to create a script to build and run things locally, just to test it all out. Here's my `buildrun.sh` script:
 
@@ -69,16 +74,6 @@ Try running that with:
 
 Once again, you'll need to have your environment set up for the above command to work correctly. If it does run correctly, you should be able to visit the app in your browser, at an address that looks something like this: [http://192.168.99.100:8080/container-tomcat-graph-0.1/index.jsp](http://192.168.99.100:8080/container-tomcat-graph-0.1/index.jsp) (the app name might be different if you used something different than I did).
 
-## Google Container Engine
+## To be continued
 
-Now that we've got something building, we want to push it off to Google and run this in the Google Cloud, to do that we will use [Container Engine](https://cloud.google.com/container-engine/). Container Engine is a product that allows you to run Docker containers on Google Cloud Platform. There's another tool that we'll need, called [Kubernetes](http://kubernetes.io/), in order to get this done. Check out the [Getting Started docs](https://cloud.google.com/container-engine/docs/before-you-begin) to enable the API, and install the necessary tools.
-
-When you click the button in the 'Getting Started' page, it will prompt you to define a cluster. I'd suggest specifying a size of 1, and a smaller instance type. We can always go back later and change the definition if we need to.
-
-Once you've built your cluster in the Cloud Console, you're going to want to set that as your default cluster in the command line tool (where NAME is the name of the cluster you created):
-
-    $ gcloud config set container/cluster NAME
-
-Then authenticate yourself:
-
-    $ gcloud container clusters get-credentials NAME
+Check out Part 2 (coming soon) for getting your Docker container deployed.
