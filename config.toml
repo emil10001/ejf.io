@@ -8,7 +8,6 @@ disqusShortname = "ejf"
 [params]
   author = "E John Feig"
   description = "Random thoughts, musings, and tech stuff"
-  gPlusName = "+EJohnFeig"
   twitterName = "ejf_io"
   githubName = "emil10001"
   twitter = "true"
