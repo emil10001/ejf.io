@@ -1,0 +1,91 @@
+baseurl = "https://ejf.io"
+languageCode = "en-us"
+title = "E John Feig"
+paginate = 10
+paginatePath = "page"
+disqusShortname = "ejf"
+theme = 'anatole'
+
+[params]
+  author = "E John Feig"
+  title = "E John Feig"
+  profilePicture = "/images/1000_portrait.jpg"
+  description = "Random thoughts, musings, and tech stuff"
+  email = "ejohn ~at~ ejf.io"
+  githubName = "emil10001"
+  twitter = "false"
+  googleFonts = [
+    'Merriweather:ital,wght@0,300;0,400;1,300;1,700',
+    'Source+Sans+3',
+    'Anonymous+Pro:ital@0;1'
+  ]
+  mainSections = [
+    'android',
+    'coffee',
+    'dealing_with_companies',
+    'dev_blog',
+    'experiments',
+    'food',
+    'fun',
+    'io15',
+    'pizza',
+    'politics',
+    'products',
+    'random',
+    'security',
+    'startups',
+    'tech_events',
+    'thoughts',
+    'wearables'
+  ]
+
+  [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/ejohnfeig"
+
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "e-mail"
+    url = "mailto:ejohn@ejf.io"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+  [[menu.main]]
+    name = "Android"
+    weight = 200
+    identifier = "android"
+    url = "/android/"
+
+  [[menu.main]]
+    name = "Coffee"
+    weight = 200
+    identifier = "coffee"
+    url = "/coffee/"
+
+  [[menu.main]]
+    name = "Pizza"
+    weight = 200
+    identifier = "pizza"
+    url = "/pizza/"
+
+  [[menu.main]]
+    name = "Dev Blog"
+    weight = 200
+    identifier = "dev_blog"
+    url = "/dev_blog/"
+
+  [[menu.main]]
+    name = "About"
+    weight = 300
+    identifier = "about"
+    url = "/about"
