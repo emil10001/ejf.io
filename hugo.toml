@@ -12,8 +12,10 @@ theme = 'anatole'
   profilePicture = "/images/1000_portrait.jpg"
   description = "Random thoughts, musings, and tech stuff"
   email = "ejohn ~at~ ejf.io"
+  facebook = "emil10001"
   githubName = "emil10001"
   twitter = "false"
+  gtagId = "UA-65945017-1"
   googleFonts = [
     'Merriweather:ital,wght@0,300;0,400;1,300;1,700',
     'Source+Sans+3',
@@ -48,6 +50,12 @@ theme = 'anatole'
     icon = "fas fa-envelope"
     title = "e-mail"
     url = "mailto:ejohn@ejf.io"
+
+[[params.socialIcons]]
+  icon = "fa-brands fa-facebook"
+  title = "Facebook"
+  url = "https://www.facebook.com/emil10001"
+
 
 [markup.goldmark.renderer]
   unsafe= true
